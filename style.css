@@ -106,3 +106,8 @@ padding-left: 0;
     top: 0;
     width: 120px;
 }
+
+#sidebar li {
+	list-style: none;
+}
+
