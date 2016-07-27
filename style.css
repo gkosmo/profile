@@ -50,8 +50,8 @@ table{
 
 
 img {
-    width: 30%;
-    height: 30%;
+    width: 64%;
+    height: auto;
     border-radius: 25px;
 }
 /* First simple components */
